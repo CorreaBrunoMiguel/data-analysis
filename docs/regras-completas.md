@@ -8,7 +8,7 @@
 
 ## 1️⃣ Nomenclatura e Organização dos Notebooks
 
-```tree
+```
 /notebooks
     /mundoX_nome_do_mundo
         /topicoY_nome_do_topico
@@ -26,7 +26,7 @@
 * Subtópico: assunto específico (ex.: Funções, Listas)
 * Tipos de notebooks: teoria, quiz, desafio, exercícios
 
-### Padrões adicionais
+### Padrões adicionais:
 
 * Scripts em `/src`: `faseX_moduloY_descricao.py`
 * Classes: `CamelCase`
@@ -46,7 +46,7 @@
 * Checkpoints na teoria não geram nota
 * Exemplo de cálculo:
 
-```txt
+```
 Quiz: 30/40, Desafio: 28/35, Exercicios: 20/25 → Nota Final: 78/100
 ```
 
@@ -81,7 +81,7 @@ Após concluir `teoria.ipynb`:
 * Campo de **pontuação e XP acumulados** até o momento
 * Feedback visual do progresso do usuário
 
-### Layout Conceitual
+### Layout Conceitual:
 
 ```markdown
 # Subtópico: Funções em Python
