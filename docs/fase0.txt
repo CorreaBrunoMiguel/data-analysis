@@ -1,0 +1,46 @@
+Fase 0 – Setup Inicial | Checklist de Sprint
+Objetivo: Criar a fundação do projeto, preparar infraestrutura e padronizar ambiente de desenvolvimento
+
+1. Estrutura do Projeto
+- [ ] Criar repositório principal no GitHub: formacao-analista-gpt-humanizado
+- [ ] Criar pastas iniciais:
+    /docs       → Documentação, roadmap, Guias do Diretor
+    /src        → Código fonte (backend e front-end)
+    /notebooks  → Jupyter notebooks dos módulos
+    /assets     → Imagens, vídeos, gráficos
+    /tests      → Testes unitários e integração
+    /data       → Datasets de exemplo e temporários
+- [ ] Criar README.md inicial com visão geral do projeto
+- [ ] Criar .gitignore padrão (Python, Node, VSCode, etc.)
+Entregável: Repositório estruturado e pronto para desenvolvimento
+
+2. Configuração do Ambiente de Desenvolvimento
+- [ ] Instalar Python (>=3.11)
+- [ ] Instalar bibliotecas iniciais: numpy, pandas, matplotlib, seaborn, jupyter
+- [ ] Instalar Node.js e npm (para front-end interativo, se necessário)
+- [ ] Configurar ambiente virtual (venv ou conda)
+- [ ] Criar requirements.txt ou environment.yml com dependências iniciais
+- [ ] Criar notebook inicial main_notebook.ipynb para prototipagem de módulos
+Entregável: Ambiente isolado, pronto para desenvolvimento e testes
+
+3. Padronização de Código e Documentação
+- [ ] Definir padrão de nomenclatura de arquivos e classes
+- [ ] Criar template de notebooks e scripts com seções: Teoria → Exercícios → Quizzes → Feedback
+- [ ] Criar template de documentação de módulo (objetivo, conteúdo, exercícios, quizzes, feedback esperado)
+- [ ] Definir estilo de commit Git (mensagens claras e consistentes)
+Entregável: Guidelines de codificação e documentação, garantindo organização e consistência
+
+4. Referência e Documentos Mestres
+- [ ] Salvar o Super Documento Organizacional na pasta /docs
+- [ ] Salvar o Guia do Diretor de Startup na mesma pasta
+- [ ] Criar links internos de referência para roadmap, cronograma e protocolos de gamificação
+Entregável: Documentos de referência acessíveis dentro do projeto
+
+5. Checkpoints e Validação
+- [ ] Criar commit inicial no Git após configuração da estrutura
+- [ ] Validar se notebooks abrem corretamente e bibliotecas estão instaladas
+- [ ] Confirmar que README e documentação inicial refletem corretamente o projeto
+Entregável: Projeto inicial validado, pronto para começar a Fase 1 (Design UX/UI e prototipagem de módulos)
+
+Prioridade: Alta
+Duração estimada: 1 semana (pode ser menor se ambiente já estiver configurado)
